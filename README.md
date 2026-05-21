@@ -23,7 +23,7 @@
 
  sample_submission.csv
 - Cách chạy
-- 
+ 
    pip install pandas numpy lightgbm
   
    python Nebula.py  

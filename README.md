@@ -24,9 +24,9 @@
  sample_submission.csv
 - Cách chạy
  
-   pip install pandas numpy lightgbm
+pip install pandas numpy lightgbm
   
-   python Nebula.py  
+python Nebula.py  
 - Kết quả
 
  Chương trình sẽ tạo file:
